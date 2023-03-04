@@ -1,4 +1,4 @@
-
+/* 
 table,th,td{
     border: 1px solid black;
     text-align: center;
@@ -16,4 +16,25 @@ table,th,td{
 .html{
     background-color: black;
 	color:white;
+} */
+table,th,tr,td{
+    border: 1px solid black;
+}
+.Data1{
+/*     width: 250px;
+    height: 200px; */
+	height:250px;
+	width:332px;
+	
+}
+.Row1{
+  width:100%;
+    text-align: center;
+}
+.tab1{
+	width:100%;
+
+}
+.Data2{
+    height: 100px;
 }
